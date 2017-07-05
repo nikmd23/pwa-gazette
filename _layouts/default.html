@@ -29,7 +29,11 @@
           <hr class="hrule">
           
           <nav>
-            <a href="{{ site.baseurl }}/">Archive</a>
+            <form action="https://tinyletter.com/pwa-gazette" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/pwa-gazette', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+              <input type="email" name="email" id="tlemail" placeholder="Enter your email address" />
+              <input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" />
+            </form>
+            <!--<a href="{{ site.baseurl }}/">Archive</a>-->
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
