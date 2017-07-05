@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+pwagazette.com is A semi-regular-ish email newsletter devoted to PWA news and updates.
 
-### More Information
+#### Submit a link
 
-A place to include any other types of information that you'd like to include about yourself.
+If you'd like to submit a link for consideration in an upcoming edition of the newsletter, [submit an issue on our GitHub repo](https://github.com/nikmd23/pwa-gazette/issues/new). 
 
-### Contact me
+Not all submissions will be accepted, but we will do our best to respond to them all.
 
-[email@domain.com](mailto:email@domain.com)
+#### Contact me
+
+If you have any questions, comments or feedback, feel free to let me know on Twitter: [@nikmd23](https://twitter.com/nikmd23).
