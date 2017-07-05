@@ -28,6 +28,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -140,6 +141,28 @@ img {
 
 .clearfix:after {
     clear: both;
+}
+
+#subscribefrm {
+    border: thin solid #0096ff;
+    border-radius: 3px;
+    display: inline-block;
+    height: 30px;
+    float: left;
+}
+
+#tlemail {
+    border: none;
+    margin-left: 0.5em;
+    outline: none;
+}
+
+#submitbtn {
+    border: none;
+    background-color: #0096ff;
+    height: 100%;
+    color: #FFF;
+    font-weight: bold;
 }
 
 /*********************/
