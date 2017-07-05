@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<div style="text-align:center;">
 <img src="/images/comingSoon.gif"/>
 
 <form id="subscribefrm" action="https://tinyletter.com/pwa-gazette" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/pwa-gazette', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
@@ -9,6 +10,7 @@ layout: default
   <input type="email" name="email" id="tlemail" placeholder="Subscribe now..." />
   <input type="submit" id="submitbtn" value="Go" />
 </form>
+</div>
 
 <div class="posts">
   {% for post in site.posts %}
