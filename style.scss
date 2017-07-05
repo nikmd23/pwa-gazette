@@ -149,6 +149,9 @@ img {
 //
 // .masthead
 //
+.hrule {
+  border: thin solid #0096ff
+}
 
 .wrapper-masthead {
   margin-bottom: 50px;
@@ -181,7 +184,7 @@ img {
 }
 
 .site-info {
-  float: left;
+  //float: left;
 
   @include mobile {
     float: none;
