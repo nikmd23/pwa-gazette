@@ -3,20 +3,20 @@ layout: default
 ---
 
 <div style="text-align:center;">
-<img src="/images/hero.png"/>
 
-  site.posts.first
-  
 <div class="posts">
-  <h2>Latest issue: <a href="{{ site.baseurl }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>  
+  <h2><a href="{{ site.baseurl }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>, available now!</h2>  
       <div class="entry">
         {{ post.excerpt }}
       </div>
 </div>
-  
+ 
 <form id="subscribefrm" action="https://tinyletter.com/pwa-gazette" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/pwa-gazette', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
   <input type="hidden" value="1" name="embed"/>
   <input type="email" name="email" id="tlemail" placeholder="Subscribe now..." />
   <input type="submit" id="submitbtn" value="Go" />
 </form>
+  
+<img src="/images/hero.png" style="border: thin solid #0096ff; border-radius: 15px;"/>
+
 </div>
