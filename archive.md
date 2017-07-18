@@ -8,8 +8,8 @@ permalink: /archive/
 <ol>
   {% for post in site.posts %}
       <li>
-        <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong> - {{ post.date | date: "%-d %B %Y"}}
-        <p>{{ post.excerpt }}</p>
+        <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+        <p><small>{{ post.excerpt }}</small></p>
       </li>
   {% endfor %}
   </ol>
