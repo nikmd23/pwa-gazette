@@ -4,7 +4,7 @@ title: PWA Gazette #1: Kickoff and Specs
 published: true
 ---
 
-#PWA Gazette #1: Kickoff and Specs
+# PWA Gazette #1: Kickoff and Specs
 
 Welcome to the PWA Gazette, your semi-regular-ish email newsletter devoted to Progressive Web App news and updates. Feel free to forward this to friends, who can [subscribe on the website](http://pwagazette.com/) for future updates.
 
