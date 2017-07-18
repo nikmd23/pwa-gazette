@@ -2,6 +2,8 @@
 layout: post
 title: "Issue #1: Kickoff and Specs"
 published: true
+excerpt: "The first issue of PWA Gazette, containing links to the official specifications that are related to PWA's."
+date: 2017-07-17 21:43:01 -0600
 ---
 
 # Issue #1: Kickoff and Specs
@@ -9,7 +11,7 @@ published: true
 Welcome to the PWA Gazette, your semi-regular-ish email newsletter devoted to Progressive Web App news and updates. Feel free to forward this to friends, who can [subscribe on the website](http://pwagazette.com/) for future updates.
 
 ## Specifications
-For the first edition of PWA Gazette, we're listing out links to the official specifications that are related to PWA's. In future editions, we'll cover news, tools and techniques related to PWA's.
+For the first issue of PWA Gazette, we're listing out links to the official specifications that are related to PWA's. In future issues, we'll cover news, tools and techniques related to PWA's.
 
 ### [Service Workers](https://w3c.github.io/ServiceWorker/v1/)
 Service Workers is first cornerstone technology behind the PWA movement. It provides for "network independence" - a fancy way of saying they enable offline functionality. [Chrome, Firefox and Opera support it today, and it's behind a flag in Edge](http://www.caniuse.com/#feat=serviceworkers).
