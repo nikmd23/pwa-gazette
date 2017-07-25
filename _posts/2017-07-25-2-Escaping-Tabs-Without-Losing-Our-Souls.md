@@ -43,6 +43,10 @@ The always phenomenal [Ilya Grigorik](https://twitter.com/igrigorik) presents a 
 ### [Streaming Service Workers: Live Code Session - Supercharged](https://www.youtube.com/watch?v=3Tr-scf7trE)
 In this Supercharged Live Code Session, [Jake Archibald](https://twitter.com/jaffathecake) and [Das Surma](https://twitter.com/dassurma) implement a streaming Service Worker, coding in real time, bugs and all!
 
+## Miscellaneous
+### [We now have a community-approved Progressive Web Apps logo!](https://medium.com/samsung-internet-dev/we-now-have-a-community-approved-progressive-web-apps-logo-823f212f57c9)
+The PWA community now has an officially unofficial logo to represent PWA's. There was a contest held on GitHub, and a winner has been announced. In fact, the winning logo is the one used for PWA Gazette!
+
 ## Past PWA Gazette Issues
 
 ### [Last Issue: #1 Kickoff and Specs](http://pwagazette.com/1-Kickoff-and-Specs/)
